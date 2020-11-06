@@ -1,3 +1,3 @@
 # personalPortfolio
 Here is the page link:
-https://kalam714.github.io/personalPortfolio/
+https://kalam714.github.io/personal/
